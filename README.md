@@ -26,11 +26,9 @@
 支持百度网盘PC端网页获取分享链接下载地址和我的网盘下载地址。安装后会在对应界面出现【下载助手】按钮, 配合多线程下载工具达到提速的效果。
 
 ## 🎨 助手界面
-
-![](https://i.loli.net/2019/09/15/VkxjsPX6pmuAvot.png)
+![](https://i.loli.net/2020/08/18/gHYE8da6XKRJAIj.png)
 
 ## 🔧 插件功能
-
   - [x] 支持多平台Windows，Linux，Mac
   - [x] 支持批量获取下载链接
   - [x] 支持使用RPC协议发送链接至本地或远程下载
@@ -39,41 +37,37 @@
 
 ## 📖 使用教程
 
-- [Windows平台使用教程](https://www.baiduyun.wiki/zh-cn/windows.html)
+- [Windows平台使用教程](https://www.baiduyun.wiki/zh-cn/windows/)
 
-- [MacOS平台使用教程](https://www.baiduyun.wiki/zh-cn/mac.html)
+- [MacOS平台使用教程](https://www.baiduyun.wiki/zh-cn/mac/)
 
-- [Linux平台使用教程](https://www.baiduyun.wiki/zh-cn/linux.html)
+- [Linux平台使用教程](https://www.baiduyun.wiki/zh-cn/linux/)
 
-- [Android平台使用教程](https://www.baiduyun.wiki/zh-cn/android.html)
+- [Android平台使用教程](https://www.baiduyun.wiki/zh-cn/android/)
 
 ## 💽 安装助手
-
-请确保已先安装 [Tampermonkey] (https://www.baiduyun.wiki/download.html) 脚本管理器
+请确保已先安装 [Tampermonkey](http://pan.baiduyun.wiki/down) 脚本管理器
 
 - [安装地址](https://www.baiduyun.wiki/install.html)
 
-## 🔔 更新历史
-
-[点击查看](https://www.baiduyun.wiki/zh-cn/changelog.html)
-
 ## 🚀 速度测试
 
-IDM 用户请先安装 [百度网盘万能助手](https://www.baiduyun.wiki/download.html)
+超级会员使用不同下载软件的速度测试：
 
 - **[IDM下载速度](http://pan.baiduyun.wiki/down)**
 
-![IDM](https://i.loli.net/2019/09/15/u9dRYDn6ekrKfXy.gif)
+![IDM](https://i.loli.net/2020/10/07/PDeTtzvUNXEcdwB.gif)
 
 - **[XDown下载速度](http://pan.baiduyun.wiki/down)**
 
-![XDown](https://i.loli.net/2019/09/19/187PZzbespSWMKx.gif)
+![XDown](https://i.loli.net/2020/10/07/jOoC17iVQ8ef3X4.gif)
+
+- **[Motrix下载速度](http://pan.baiduyun.wiki/down)**
+
+![Motrix](https://i.loli.net/2020/10/07/KEqvPQeC7YDVTs6.gif)
 
 ## 👻 注意事项
-不支持超过300M的文件夹，可批量选择文件进行下载，更多请参考 [常见问题](https://www.baiduyun.wiki/zh-cn/question.html)
+不支持文件夹，可批量选择文件进行下载，更多请参考 [常见问题](https://www.baiduyun.wiki/zh-cn/question.html)
 
-## 📜 免责声明 
-本脚本仅在浏览器端运行，源码公开可见，仅做研究使用，不得用于非法获利， 如产生法律纠纷与脚本作者无关!!!
-
-## 💻 交流反馈
+## 💻 更多黑科技
 ![](https://i.loli.net/2019/11/28/lAFfphM8KYHeGgJ.png)
